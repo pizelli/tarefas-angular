@@ -17,8 +17,8 @@ import { EditarTarefaComponent } from './editar';
   declarations: [
     ListarTarefaComponent,
     CadastrarTarefaComponent,
-    EditarTarefaComponent/*,
-    TarefaConcluidaDirective*/
+    EditarTarefaComponent,
+    TarefaConcluidaDirective
   ],
   providers:[
     TarefaService
